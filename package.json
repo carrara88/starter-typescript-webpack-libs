@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "starter-typescript-webpack project",
   "main": "dist/bundle.js",
-  "type": "module",
   "private": true,
   "scripts": {
     "dev": "webpack serve --mode=development --open",

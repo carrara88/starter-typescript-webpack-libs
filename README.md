@@ -35,7 +35,6 @@ Configure `package.json`:
 ```json
 {
   "main": "dist/bundle.js",
-  "type": "module",
   "private": true,
   "scripts": {
     "dev": "webpack serve --mode=development --open",
